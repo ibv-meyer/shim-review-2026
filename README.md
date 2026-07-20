@@ -312,7 +312,7 @@ This ensures that your new shim+GRUB2 can no longer chainload those older GRUB2 
 
 If this is your first application or you're using a new CA certificate, please say so here.
 *******************************************************************************
-The previous certificate was only used with Shims and GRUBs that support SBAT. Therefore, the previously signed GRUB binary is invalidated
+The current certificate was only used with Shims and GRUBs that do support SBAT. Therefore, the previously signed GRUB binary is invalidated
 by incrementing the GRUB version in the SBAT.
 
 *******************************************************************************
